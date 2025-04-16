@@ -6,8 +6,7 @@
 [![Tests](https://github.com/hostcar/dsy1103-matematicas/actions/workflows/tests.yml/badge.svg)](https://github.com/hostcar/dsy1103-matematicas/actions/workflows/tests.yml)
 
 
-Crear 4 rutas y métodos que retornen operaciones aritméticas (suma, resta, multiplicación y
-división)
+Crear 4 rutas y métodos que retornen operaciones aritméticas (suma, resta, multiplicación y división)
 - Un método por cada operación
 - Debe ingresar dos valores por ruta
   - api/suma/{valor_uno}/{valor_dos}
@@ -17,5 +16,5 @@ división)
     - api/suma/1/2
     - api/resta/10/20
     - api/multiplicacion/30/10
-    - Api/division/10/2
+    - api/division/10/2
 
