@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: matematicas
+
+server:
+  port: 8081
+
+logging:
+  level:
+    root: warn
+    cl:
+      duoc: debug
